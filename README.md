@@ -7,8 +7,8 @@ Polybar modules, developed in bash scripts, that allow you to view the status of
 ## Prerequisites
 
 
-[Playerctl](https://github.com/altdesktop/playerctl)
-[NerdFonts](https://www.nerdfonts.com/)
+* [Playerctl](https://github.com/altdesktop/playerctl)
+* [NerdFonts](https://www.nerdfonts.com/)
 
 
 ## Installation
